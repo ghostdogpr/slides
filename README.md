@@ -1,2 +1,1 @@
-# slides
-Slides for my talks
+# Slides for my talks
