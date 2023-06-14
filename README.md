@@ -1,5 +1,5 @@
 # Slides for my talks
-- [Production-ready GraphQL with Caliban](https://github.com/ghostdogpr/slides/blob/b99c02ac9d1bcf0d173ba7d30d12820b727a31d7/Production-ready%20GraphQL%20with%20Caliban.pdf) - Atlanta Scala Meetup, June 2023 ([video](https://youtu.be/8PmUt3-HZWs?t=647))
+- [Production-ready GraphQL with Caliban](https://github.com/ghostdogpr/slides/blob/b99c02ac9d1bcf0d173ba7d30d12820b727a31d7/Production-ready%20GraphQL%20with%20Caliban.pdf) - Atlanta Scala Meetup, June 2023 ([video](https://www.youtube.com/watch?v=-H7S0uQ-1ZQ))
 - [Sharding with Pure FP](https://github.com/ghostdogpr/slides/blob/0afa308b02f7abb49e9979eb25d18eb5fcf44780/Sharding%20with%20Pure%20FP%20-%20Functional%20Scala%202022.pdf) - Functional Scala, December 2022 ([video](https://www.youtube.com/watch?v=V_l9n1kanHs))
 - [CockroachDB at Devsisters](https://github.com/ghostdogpr/slides/blob/5a37fd7db0fe9b5ae7f7cfdcba0d8b7d367f89d8/CockroachDB%20at%20Devsisters.pdf) - RoachFest, September 2022 ([video](https://www.youtube.com/watch?v=iAWU-eGIYsk))
 - [Beautiful Domain Logic](https://github.com/ghostdogpr/slides/blob/92566cb91bfdd2087b50494f2a43de6edf19c2a0/Beautiful%20Domain%20Logic.pdf) - Scala Matsuri, March 2022 ([video](https://www.youtube.com/watch?v=TVYhFpqlgZ4))
